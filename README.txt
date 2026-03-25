@@ -21,3 +21,5 @@ can enter .. to go back a directory
 commands: pwd
 
 lists the current working directory
+
+
